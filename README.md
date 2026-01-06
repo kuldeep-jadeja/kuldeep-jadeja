@@ -1,3 +1,9 @@
+# Hi there 👋
+
+# About Me
+
+I am **Kuldeepsinh Jadeja**, working as a **Full-Stack Developer**.
+
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Automated clipping systems for Twitch & IRL streamers (audio spikes, chat reactions, AI detection)<br><br>👯 I’m looking to collaborate on<br><br>Open-source automation tools (clipping bots, media processing, creator tools)<br><br>AI + content creator tooling (Shorts, Reels, YouTube automation)<br><br>🤝 I’m looking for help with<br><br>Scaling automation pipelines (queues, workers, performance tuning)<br><br>🌱 I’m currently learning<br><br>Advanced Next.js patterns & production-grade frontend architecture<br><br>AI/ML integrations for real-time media analysis<br><br>💬 Ask me about<br><br>Twitch & YouTube clipping automation<br><br>Next.js full-stack workflows<br><br>Python automation, APIs, and backend logic<br><br>Turning side projects into usable products<br><br>⚡ Fun fact<br><br>I love building tools that replace repetitive human work with clean automation — if it can be automated, I’ll try to automate it 😄
 
